@@ -1,6 +1,6 @@
-package com.morvencat.mathapi;
+package com.morvencat.a01mathdemo;
 
-public class MathAPI {
+public class MathDemo {
     public static void main(String[] args) {
         //判断一个数是否为质数
         System.out.println(isPrime(912311333));
